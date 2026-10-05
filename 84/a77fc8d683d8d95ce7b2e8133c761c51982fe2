@@ -1,0 +1,21 @@
+go.mod
+  s_c45f3e72aff3de::t_998e792dc72c05 31-35,37-40,53,70-71,73-76
+go.sum
+  s_c45f3e72aff3de::t_1ca6275c2a5ef8 55-56,166-181,199-200,216-217,224-225,233-236,239-240,261-264,270-271
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "84a77fc8d683d8d95ce7b2e8133c761c51982fe2",
+  "prompts": {},
+  "sessions": {
+    "s_c45f3e72aff3de": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f30424b62ffeeENZh68v7X9bQL",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Andrew Galloni <andrew@cloudflare.com>"
+    }
+  }
+}
